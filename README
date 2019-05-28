@@ -1,4 +1,6 @@
-A script that include machine learning methods using the iris dataset as an example
+A script that include machine learning methods using the iris dataset as an example. Includes grid search tuning of parameters
+and visualization of most methods.
+
 Simple regression
 Random forest
 K-nearest neighbors
